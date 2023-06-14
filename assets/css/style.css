@@ -23,6 +23,7 @@
 .item-img, .text{
     font-size: 1.5em;
     line-height: 1.4em;
+    padding: 5px;
 
 }
 .item-img, .titulo{
@@ -96,6 +97,4 @@
     .formulario, .fields, .radio label {
         margin: 0;
     }
-
-    .formulario, .fields, .radio
 
